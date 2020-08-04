@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1>Hi 👋, I'm Nicholas</h1>
+<p>A passionate developer currently studying at Brown University, specializing in AI/ML and Systems. I'm exploring a wide range of fields from web development to robotics - I like to chain these together to craft things!</p>
 
-<!--
-**jwnicholas99/jwnicholas99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨🏽‍💻 Currently engaging in reinforcement learning at the Intelligent Robot Lab
 
-Here are some ideas to get you started:
+- 🔭 Having fun playing with the Raspberry Pi4
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Take a look at my portfolio at [https://jwnicholas99.github.io/](https://jwnicholas99.github.io/)
+
+
+<p>To connect with me:</p>
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/jingweinicholaslim) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/coding_essentials) [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://jwnicholas99.github.io/)
+<img src="https://komarev.com/ghpvc/?username=jwnicholas99" alt="jwnicholas99" />
+
+---
+
+My Github Stats: 
+
+<p align = "center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jwnicholas99&show_icons=true&theme=radical&line_height=27" alt="jwnicholas99" />
+</p>
