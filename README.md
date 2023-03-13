@@ -1,16 +1,16 @@
-<h1>Hi 👋, I'm Nicholas</h1>
-<p>A passionate developer currently studying at Brown University, specializing in AI/ML and Systems. I'm exploring a wide range of fields from web development to robotics - I like to chain these together to craft things!</p>
+<h1>Hi 👋, I'm Nicholas 🍵</h1>
+<p>A passionate developer exploring a wide range of fields from web development to robotics. </p>
 
-- 👨🏽‍💻 Currently engaging in reinforcement learning at the Intelligent Robot Lab
+- 👨🏽‍💻 Tinkering with ChatGPT and libraries like [LangChain](https://github.com/hwchase17/langchain)
 
 - 🔭 Having fun playing with the Raspberry Pi4
 
-- 👨‍💻 Take a look at my portfolio at [https://jwnicholas99.github.io/](https://jwnicholas99.github.io/)
+- 📜 Take a look at my portfolio at [https://jwnicholas99.github.io/](https://jwnicholas99.github.io/)
 
 
 <p>To connect with me:</p>
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/jingweinicholaslim) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/coding_essentials) [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://jwnicholas99.github.io/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/jingweinicholaslim) [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://jwnicholas99.github.io/)
 <img src="https://komarev.com/ghpvc/?username=jwnicholas99" alt="jwnicholas99" />
 
 ---
