@@ -1,5 +1,5 @@
 <h1>Hi, I'm Nicholas 🍵</h1>
-<p>A  developer passionate about tinkering and building stuff. I'm exploring a wide range of fields from web development to robotics. I'm currently </p>
+<p>A  developer passionate about tinkering with and building stuff. I'm exploring a wide range of fields from web development to robotics. I'm currently </p>
 
 👨🏽‍💻 Tinkering with ChatGPT and libraries like [LangChain](https://github.com/hwchase17/langchain)
 
