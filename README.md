@@ -5,7 +5,7 @@
 
 🔭 Having fun playing with the Raspberry Pi4
 
-🌌 Building my digital corner at [https://jwnicholas99.github.io/](https://jwnicholas99.github.io/)
+🌌 Building my digital corner at [https://jwnicholas.com](https://jwnicholas.com)
 
 
 <p>Let's connect and discuss about ideas 👇🏼</p>
