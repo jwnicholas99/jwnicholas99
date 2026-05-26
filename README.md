@@ -7,8 +7,5 @@
 
 🌌 Building my digital corner at [https://jwnicholas.com](https://jwnicholas.com)
 
-
-<p>Let's connect and discuss about ideas 👇🏼</p>
-
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/jwnicholas99) [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://jwnicholas99.github.io/)
 <img src="https://komarev.com/ghpvc/?username=jwnicholas99" alt="jwnicholas99" />
